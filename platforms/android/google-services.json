@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "790058688434",
+    "firebase_url": "https://lunytha-1.firebaseio.com",
+    "project_id": "lunytha-1",
+    "storage_bucket": "lunytha-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790058688434:android:f63930e12a81a185",
+        "android_client_info": {
+          "package_name": "com.firebaseapp.lunytha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790058688434-s05vs8qt0s25apsa5orie0ftd1uc3api.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp5yGgAAxcIpRcgJHqoLy3F7tcgJR6zto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
